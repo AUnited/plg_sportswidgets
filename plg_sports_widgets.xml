@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension version="3.0" type="plugin" group="content" method="upgrade">
+	<name>Sports Widgets Plugin</name>
+	<author>Vitaliy Zhukov</author>
+	<creationDate>Jul 2020</creationDate>
+	<copyright>Vitaliy Zhukov 2020. All rights reserved.</copyright>
+	<license>http://www.gnu.org/licenses/gpl-2.0.html GNU/GPL</license>
+	<authorEmail>info@aunited.ru</authorEmail>
+	<authorUrl>http://aunited.ru/sportswidgets</authorUrl>
+	<version>1.0</version>
+	<description>
+	<![CDATA[
+<p>With this plugin, you can insert widgets from the Genius Sports.</p>
+	]]>
+	</description>
+	<files>
+		<filename plugin="plg_sports_widgets">plg_sports_widgets.php</filename>
+	</files>
+
+</extension>
