@@ -43,3 +43,6 @@ Network Trash Folder
 Temporary Items
 .apdisk
 .idea
+*.zip
+*.tar.gz
+*.tgz
