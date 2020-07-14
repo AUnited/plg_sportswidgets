@@ -10,7 +10,7 @@
 	<version>1.0</version>
 	<description>
 	<![CDATA[
-<p>With this plugin, you can insert widgets from the Genius Sports.</p>
+<p>With this plugin, you can insert widgets from the Genius Sports use <strong>{geniussports}XXXXX{/geniussports}</strong> to insert table.</p>
 	]]>
 	</description>
 	<files>
